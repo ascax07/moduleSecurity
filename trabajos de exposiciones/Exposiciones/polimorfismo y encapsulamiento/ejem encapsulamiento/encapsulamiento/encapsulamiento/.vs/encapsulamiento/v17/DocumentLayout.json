@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\polimorfismo y encapsulamiento\\ejem encapsulamiento\\encapsulamiento\\encapsulamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6494F091-BEFB-43CA-BE05-2507E26D6FA8}|instrumento\\instrumento.csproj|c:\\users\\sena\\desktop\\trabajos de c#\\exposiciones\\polimorfismo y encapsulamiento\\ejem encapsulamiento\\encapsulamiento\\encapsulamiento\\instrumento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6494F091-BEFB-43CA-BE05-2507E26D6FA8}|instrumento\\instrumento.csproj|solutionrelative:instrumento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6494F091-BEFB-43CA-BE05-2507E26D6FA8}|instrumento\\instrumento.csproj|c:\\users\\sena\\desktop\\trabajos de c#\\exposiciones\\polimorfismo y encapsulamiento\\ejem encapsulamiento\\encapsulamiento\\encapsulamiento\\instrumento\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6494F091-BEFB-43CA-BE05-2507E26D6FA8}|instrumento\\instrumento.csproj|solutionrelative:instrumento\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6494F091-BEFB-43CA-BE05-2507E26D6FA8}|instrumento\\instrumento.csproj|c:\\users\\sena\\desktop\\trabajos de c#\\exposiciones\\polimorfismo y encapsulamiento\\ejem encapsulamiento\\encapsulamiento\\encapsulamiento\\instrumento\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6494F091-BEFB-43CA-BE05-2507E26D6FA8}|instrumento\\instrumento.csproj|solutionrelative:instrumento\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Piano.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\polimorfismo y encapsulamiento\\ejem encapsulamiento\\encapsulamiento\\encapsulamiento\\instrumento\\Piano.cs",
+              "RelativeDocumentMoniker": "instrumento\\Piano.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\polimorfismo y encapsulamiento\\ejem encapsulamiento\\encapsulamiento\\encapsulamiento\\instrumento\\Piano.cs",
+              "RelativeToolTip": "instrumento\\Piano.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:51:21.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instrumento.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\polimorfismo y encapsulamiento\\ejem encapsulamiento\\encapsulamiento\\encapsulamiento\\instrumento\\Instrumento.cs",
+              "RelativeDocumentMoniker": "instrumento\\Instrumento.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\polimorfismo y encapsulamiento\\ejem encapsulamiento\\encapsulamiento\\encapsulamiento\\instrumento\\Instrumento.cs",
+              "RelativeToolTip": "instrumento\\Instrumento.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:50:00.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\polimorfismo y encapsulamiento\\ejem encapsulamiento\\encapsulamiento\\encapsulamiento\\instrumento\\Program.cs",
+              "RelativeDocumentMoniker": "instrumento\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\polimorfismo y encapsulamiento\\ejem encapsulamiento\\encapsulamiento\\encapsulamiento\\instrumento\\Program.cs",
+              "RelativeToolTip": "instrumento\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:47:43.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

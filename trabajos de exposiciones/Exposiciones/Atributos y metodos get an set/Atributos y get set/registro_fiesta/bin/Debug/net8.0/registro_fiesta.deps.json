@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "registro_fiesta/1.0.0": {
+        "runtime": {
+          "registro_fiesta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "registro_fiesta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

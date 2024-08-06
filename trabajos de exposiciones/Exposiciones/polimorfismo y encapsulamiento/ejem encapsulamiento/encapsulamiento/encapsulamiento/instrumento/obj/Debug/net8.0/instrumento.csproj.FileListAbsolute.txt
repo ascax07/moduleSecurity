@@ -1,0 +1,14 @@
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\bin\Debug\net8.0\instrumento.exe
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\bin\Debug\net8.0\instrumento.deps.json
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\bin\Debug\net8.0\instrumento.runtimeconfig.json
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\bin\Debug\net8.0\instrumento.dll
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\bin\Debug\net8.0\instrumento.pdb
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\obj\Debug\net8.0\instrumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\obj\Debug\net8.0\instrumento.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\obj\Debug\net8.0\instrumento.AssemblyInfo.cs
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\obj\Debug\net8.0\instrumento.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\obj\Debug\net8.0\instrumento.dll
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\obj\Debug\net8.0\refint\instrumento.dll
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\obj\Debug\net8.0\instrumento.pdb
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\obj\Debug\net8.0\instrumento.genruntimeconfig.cache
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\polimorfismo y encapsulamiento\ejem encapsulamiento\encapsulamiento\encapsulamiento\instrumento\obj\Debug\net8.0\ref\instrumento.dll

@@ -1,0 +1,14 @@
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\obj\Debug\net8.0\recomlibros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\obj\Debug\net8.0\recomlibros.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\obj\Debug\net8.0\recomlibros.AssemblyInfo.cs
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\obj\Debug\net8.0\recomlibros.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\bin\Debug\net8.0\recomlibros.exe
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\bin\Debug\net8.0\recomlibros.deps.json
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\bin\Debug\net8.0\recomlibros.runtimeconfig.json
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\bin\Debug\net8.0\recomlibros.dll
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\bin\Debug\net8.0\recomlibros.pdb
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\obj\Debug\net8.0\recomlibros.dll
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\obj\Debug\net8.0\refint\recomlibros.dll
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\obj\Debug\net8.0\recomlibros.pdb
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\obj\Debug\net8.0\recomlibros.genruntimeconfig.cache
+C:\Users\SENA\source\repos\abstraccion_y_herencia\recomlibros\obj\Debug\net8.0\ref\recomlibros.dll

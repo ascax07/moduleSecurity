@@ -1,0 +1,14 @@
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\obj\Debug\net8.0\clases_computdaores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\obj\Debug\net8.0\clases_computdaores.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\obj\Debug\net8.0\clases_computdaores.AssemblyInfo.cs
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\obj\Debug\net8.0\clases_computdaores.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\bin\Debug\net8.0\clases_computdaores.exe
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\bin\Debug\net8.0\clases_computdaores.deps.json
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\bin\Debug\net8.0\clases_computdaores.runtimeconfig.json
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\bin\Debug\net8.0\clases_computdaores.dll
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\bin\Debug\net8.0\clases_computdaores.pdb
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\obj\Debug\net8.0\clases_computdaores.dll
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\obj\Debug\net8.0\refint\clases_computdaores.dll
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\obj\Debug\net8.0\clases_computdaores.pdb
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\obj\Debug\net8.0\clases_computdaores.genruntimeconfig.cache
+C:\Users\SENA\Desktop\trabajos de c#\Exposiciones\clases_computdaores\obj\Debug\net8.0\ref\clases_computdaores.dll

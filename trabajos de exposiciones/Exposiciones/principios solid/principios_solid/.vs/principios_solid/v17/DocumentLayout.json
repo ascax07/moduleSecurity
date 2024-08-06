@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\principios solid\\principios_solid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0E05C3-6227-443D-83E6-21E01CFDA8EC}|envio_noti\\envio_noti.csproj|c:\\users\\sena\\desktop\\trabajos de c#\\exposiciones\\principios solid\\principios_solid\\envio_noti\\inotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0E05C3-6227-443D-83E6-21E01CFDA8EC}|envio_noti\\envio_noti.csproj|solutionrelative:envio_noti\\inotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0E05C3-6227-443D-83E6-21E01CFDA8EC}|envio_noti\\envio_noti.csproj|c:\\users\\sena\\desktop\\trabajos de c#\\exposiciones\\principios solid\\principios_solid\\envio_noti\\notificacionporemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0E05C3-6227-443D-83E6-21E01CFDA8EC}|envio_noti\\envio_noti.csproj|solutionrelative:envio_noti\\notificacionporemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0E05C3-6227-443D-83E6-21E01CFDA8EC}|envio_noti\\envio_noti.csproj|c:\\users\\sena\\desktop\\trabajos de c#\\exposiciones\\principios solid\\principios_solid\\envio_noti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0E05C3-6227-443D-83E6-21E01CFDA8EC}|envio_noti\\envio_noti.csproj|solutionrelative:envio_noti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0E05C3-6227-443D-83E6-21E01CFDA8EC}|envio_noti\\envio_noti.csproj|c:\\users\\sena\\desktop\\trabajos de c#\\exposiciones\\principios solid\\principios_solid\\envio_noti\\serviciodenotificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0E05C3-6227-443D-83E6-21E01CFDA8EC}|envio_noti\\envio_noti.csproj|solutionrelative:envio_noti\\serviciodenotificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioDeNotificaciones.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\principios solid\\principios_solid\\envio_noti\\ServicioDeNotificaciones.cs",
+              "RelativeDocumentMoniker": "envio_noti\\ServicioDeNotificaciones.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\principios solid\\principios_solid\\envio_noti\\ServicioDeNotificaciones.cs",
+              "RelativeToolTip": "envio_noti\\ServicioDeNotificaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:26:15.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificacionPorEmail.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\principios solid\\principios_solid\\envio_noti\\NotificacionPorEmail.cs",
+              "RelativeDocumentMoniker": "envio_noti\\NotificacionPorEmail.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\principios solid\\principios_solid\\envio_noti\\NotificacionPorEmail.cs",
+              "RelativeToolTip": "envio_noti\\NotificacionPorEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:20:39.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\principios solid\\principios_solid\\envio_noti\\Program.cs",
+              "RelativeDocumentMoniker": "envio_noti\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\principios solid\\principios_solid\\envio_noti\\Program.cs",
+              "RelativeToolTip": "envio_noti\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:19:29.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INotificacion.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\principios solid\\principios_solid\\envio_noti\\INotificacion.cs",
+              "RelativeDocumentMoniker": "envio_noti\\INotificacion.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\trabajos de c#\\Exposiciones\\principios solid\\principios_solid\\envio_noti\\INotificacion.cs",
+              "RelativeToolTip": "envio_noti\\INotificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:19:57.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\bin\Debug\net8.0\registro_fiesta.exe
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\bin\Debug\net8.0\registro_fiesta.deps.json
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\bin\Debug\net8.0\registro_fiesta.runtimeconfig.json
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\bin\Debug\net8.0\registro_fiesta.dll
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\bin\Debug\net8.0\registro_fiesta.pdb
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\obj\Debug\net8.0\registro_fiesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\obj\Debug\net8.0\registro_fiesta.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\obj\Debug\net8.0\registro_fiesta.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\obj\Debug\net8.0\registro_fiesta.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\obj\Debug\net8.0\registro_fiesta.dll
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\obj\Debug\net8.0\refint\registro_fiesta.dll
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\obj\Debug\net8.0\registro_fiesta.pdb
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\obj\Debug\net8.0\registro_fiesta.genruntimeconfig.cache
+C:\Users\SENA\source\repos\Atributos\registro_fiesta\obj\Debug\net8.0\ref\registro_fiesta.dll
