@@ -59,7 +59,14 @@ namespace Entity.Context
         }
 
         //Security
-        public DbSet<Role> Roles => Set<Role>();
+        public DbSet<Person> Person => Set<Person>();
+        public DbSet<User> User => Set<User>();
+        public DbSet<UserRole> UserRole => Set<UserRole>();
+        public DbSet<Role> Role => Set<Role>();
+        public DbSet<RoleView> RoleView => Set<RoleView>();
+
+
+
 
         public readonly struct DapperEFCoreCommand : IDisposable
         {

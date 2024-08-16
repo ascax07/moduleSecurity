@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity.Model.Security
 {
-    internal class Person
+    public class  Person
     {
         public int Id { get; set; }
 
@@ -29,10 +29,6 @@ namespace Entity.Model.Security
         public string DeleteAt { get; set; }
         public int Phone { get; set; }
         public string State { get; set; }
-
-
-
-
 
     }
 }

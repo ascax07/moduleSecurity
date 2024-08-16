@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity.Model.Security
 {
-    internal class View
+    public class View
     {
     }
 }
