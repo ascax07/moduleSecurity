@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\obj\Debug\net8.0\Ejer evaluacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\obj\Debug\net8.0\Ejer evaluacion.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\obj\Debug\net8.0\Ejer evaluacion.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\obj\Debug\net8.0\Ejer evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\obj\Debug\net8.0\Ejer evaluacion.sourcelink.json

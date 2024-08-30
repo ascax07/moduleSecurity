@@ -1,0 +1,29 @@
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\bin\Debug\net8.0\Persona.exe
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\bin\Debug\net8.0\Persona.deps.json
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\bin\Debug\net8.0\Persona.runtimeconfig.json
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\bin\Debug\net8.0\Persona.dll
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\bin\Debug\net8.0\Persona.pdb
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.AssemblyInfo.cs
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.dll
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\obj\Debug\net8.0\refint\Persona.dll
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.pdb
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.genruntimeconfig.cache
+C:\Users\SENA\Desktop\JG\Trabajo evaluacion\Ejer evaluacion\Persona\obj\Debug\net8.0\ref\Persona.dll
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\bin\Debug\net8.0\Persona.exe
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\bin\Debug\net8.0\Persona.deps.json
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\bin\Debug\net8.0\Persona.runtimeconfig.json
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\bin\Debug\net8.0\Persona.dll
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\bin\Debug\net8.0\Persona.pdb
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.sourcelink.json
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.dll
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\obj\Debug\net8.0\refint\Persona.dll
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.pdb
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\obj\Debug\net8.0\Persona.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\moduleSecurity\Ejer evaluacion\Persona\obj\Debug\net8.0\ref\Persona.dll

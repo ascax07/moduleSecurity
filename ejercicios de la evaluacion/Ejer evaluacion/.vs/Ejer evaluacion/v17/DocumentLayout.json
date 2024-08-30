@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\moduleSecurity\\ejercicios de la evaluacion\\Ejer evaluacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96BA6D5A-3DCD-4ABF-B525-3BAC41157229}|Persona\\Persona.csproj|c:\\users\\usuario\\desktop\\modulesecurity\\ejercicios de la evaluacion\\ejer evaluacion\\persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BA6D5A-3DCD-4ABF-B525-3BAC41157229}|Persona\\Persona.csproj|solutionrelative:persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\moduleSecurity\\ejercicios de la evaluacion\\Ejer evaluacion\\Persona\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona\\Persona.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\moduleSecurity\\ejercicios de la evaluacion\\Ejer evaluacion\\Persona\\Persona.cs",
+              "RelativeToolTip": "Persona\\Persona.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:32:58.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
